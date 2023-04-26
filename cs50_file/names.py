@@ -1,6 +1,19 @@
 
 name = input("What's your name? ")
 
+
+# Prompt user for a name and store to a list then
+# sort the names Alphbeta
+
+# names = []
+# for i in range(3):
+#     name = input("What's your name? ")
+#     names.append(name)
+#
+# for name in sorted(names):
+#     print(f"hello, {name}")
+
+
 # Open function allows you to open a file, "w" allows
 # you to write to the file. When you write to a text file
 # eah time it will overwrite the previous text
@@ -68,14 +81,3 @@ name = input("What's your name? ")
 
 
 
-# Prompt user for a name and store to a list then
-# sort the names Alphbeta
-# names = []
-#
-#
-# for i in range(3):
-#     name = input("What's your name? ")
-#     names.append(name)
-#
-# for name in sorted(names):
-#     print(f"hello, {name}")
